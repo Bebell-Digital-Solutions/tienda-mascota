@@ -12,13 +12,13 @@
       href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
     />
     <link rel="stylesheet" href="styles.css" />
-    <title>Diseño Web Mastery | Pet Place</title>
+    <title>Pet Palace</title>
   </head>
   <body>
     <nav>
       <div class="nav__header">
         <div class="nav__logo">
-          <a href="#">Pet Place</a>
+          <a href="#">Pet Palace</a>
         </div>
         <div class="nav__menu__btn" id="menu-btn">
           <i class="ri-menu-line"></i>
@@ -36,25 +36,25 @@
       <div class="section__container header__container">
         <div class="header__content">
           <h4>Bienvenido</h4>
-          <h1>Veterinario<br /><span>Mascotas</span></h1>
+          <h1>Pet<br /><span>Palace</span></h1>
           <h2>Amamos a las mascotas tanto como tú :)</h2>
           <p>
             Desde chequeos rutinarios hasta tratamientos especializados, estamos aquí para asegurar que tus mascotas lleven vidas felices y saludables.
           </p>
           <div class="header__btn">
             <button>
-              ¡Empieza aquí!
+              ¡Comienza aquí!
               <span><i class="ri-arrow-right-line"></i></span>
             </button>
           </div>
         </div>
         <div class="header__image">
           <img
-            src="assets/header-bg.png"
-            alt="fondo-header"
+            src="activos/header-bg.png"
+            alt="header-bg"
             class="header__image-bg"
           />
-          <img src="assets/header.png" alt="header" />
+          <img src="activos/header.png" alt="header" />
         </div>
       </div>
       <div class="header__bottom"></div>
@@ -66,7 +66,7 @@
       <div class="intro__grid">
         <div class="intro__card">
           <div class="intro__image">
-            <img src="assets/intro-1.png" alt="intro" />
+            <img src="activos/intro-1.png" alt="intro" />
           </div>
           <h4>Expertos en Mascotas</h4>
           <p>
@@ -76,7 +76,7 @@
         </div>
         <div class="intro__card">
           <div class="intro__image">
-            <img src="assets/intro-2.png" alt="intro" />
+            <img src="activos/intro-2.png" alt="intro" />
           </div>
           <h4>Servicios Veterinarios</h4>
           <p>
@@ -86,7 +86,7 @@
         </div>
         <div class="intro__card">
           <div class="intro__image">
-            <img src="assets/intro-3.png" alt="intro" />
+            <img src="activos/intro-3.png" alt="intro" />
           </div>
           <h4>Contáctanos</h4>
           <p>
@@ -102,23 +102,23 @@
       <h2 class="section__header">Lo que podemos hacer por ti</h2>
       <div class="about__row">
         <div class="about__image">
-          <img src="assets/about-1.jpg" alt="nosotros" />
+          <img src="activos/about-1.jpg" alt="about" />
         </div>
         <div class="about__content">
-          <span><img src="assets/about-1-icon.png" alt="icono-nosotros" /></span>
-          <h4>Permítenos ayudarte con la salud de tu mascota</h4>
+          <span><img src="activos/about-1-icon.png" alt="about-icon" /></span>
+          <h4>Te ayudamos con la salud de tu mascota</h4>
           <p>
-            Nuestros veterinarios expertos están aquí para brindar atención integral y orientación para asegurar que tu mascota mantenga una salud perfecta.
+            Nuestros veterinarios expertos están aquí para brindar atención integral y orientación para garantizar que tu mascota se mantenga en perfecta salud.
           </p>
         </div>
       </div>
       <div class="about__row">
         <div class="about__image">
-          <img src="assets/about-2.jpg" alt="nosotros" />
+          <img src="activos/about-2.jpg" alt="about" />
         </div>
         <div class="about__content">
-          <span><img src="assets/about-2-icon.png" alt="icono-nosotros" /></span>
-          <h4>Personal atento cuidará de tu mascota</h4>
+          <span><img src="activos/about-2-icon.png" alt="about-icon" /></span>
+          <h4>Personal cariñoso cuidará de tu mascota</h4>
           <p>
             Tu mascota estará en buenas manos con nuestro personal compasivo y bien capacitado, que trata a cada mascota como familia.
           </p>
@@ -126,13 +126,13 @@
       </div>
       <div class="about__row">
         <div class="about__image">
-          <img src="assets/about-3.jpg" alt="nosotros" />
+          <img src="activos/about-3.jpg" alt="about" />
         </div>
         <div class="about__content">
-          <span><img src="assets/about-3-icon.png" alt="icono-nosotros" /></span>
-          <h4>Permítenos asear a tu preciada y amada mascota</h4>
+          <span><img src="activos/about-3-icon.png" alt="about-icon" /></span>
+          <h4>Arreglamos a tu preciada y amada mascota</h4>
           <p>
-            Desde baños hasta estilizados, ofrecemos servicios profesionales de aseo para mantener a tu mascota luciendo y sintiéndose mejor.
+            Desde baños hasta estilizados, ofrecemos servicios profesionales de aseo para mantener a tu mascota luciendo y sintiéndose mejor que nunca.
           </p>
         </div>
       </div>
@@ -144,26 +144,26 @@
         <h2 class="section__header">Productos destacados para mascotas</h2>
         <div class="product__grid">
           <div class="product__card">
-            <img src="assets/product-1.jpg" alt="producto" />
+            <img src="activos/product-1.jpg" alt="product" />
             <h4>Bolsas para Desechos</h4>
             <p>
-              Bolsas prácticas y ecológicas para fácil disposición de desechos de mascotas.
+              Bolsas ecológicas y convenientes para la fácil eliminación de desechos de mascotas.
             </p>
             <h3>$29.00 USD</h3>
           </div>
           <div class="product__card">
-            <img src="assets/product-2.jpg" alt="producto" />
+            <img src="activos/product-2.jpg" alt="product" />
             <h4>Accesorios para Mascotas</h4>
             <p>
-              Explora nuestra variedad de accesorios estilosos y funcionales para tus amigos peludos.
+              Explora nuestra gama de accesorios funcionales y con estilo para tus amigos peludos.
             </p>
             <h3>$49.00 USD</h3>
           </div>
           <div class="product__card">
-            <img src="assets/product-3.jpg" alt="producto" />
+            <img src="activos/product-3.jpg" alt="product" />
             <h4>Comida para Perros</h4>
             <p>
-              Alimento nutritivo y delicioso para mantener a tu mascota saludable y feliz.
+              Comida para perros nutritiva y deliciosa para mantener a tu mascota saludable y feliz.
             </p>
             <h3>$79.00 USD</h3>
           </div>
@@ -177,31 +177,31 @@
       <div class="service__flex">
         <div class="service__card">
           <div>
-            <img src="assets/service-1.png" alt="servicio" />
+            <img src="activos/service-1.png" alt="service" />
           </div>
           <p>Atención de Emergencia</p>
         </div>
         <div class="service__card">
           <div>
-            <img src="assets/service-2.png" alt="servicio" />
+            <img src="activos/service-2.png" alt="service" />
           </div>
           <p>Servicios de Vacunación</p>
         </div>
         <div class="service__card">
           <div>
-            <img src="assets/service-3.png" alt="servicio" />
+            <img src="activos/service-3.png" alt="service" />
           </div>
           <p>Asesoría Nutricional</p>
         </div>
         <div class="service__card">
           <div>
-            <img src="assets/service-4.png" alt="servicio" />
+            <img src="activos/service-4.png" alt="service" />
           </div>
-          <p>Consulta Conductual</p>
+          <p>Consulta de Comportamiento</p>
         </div>
         <div class="service__card">
           <div>
-            <img src="assets/service-5.png" alt="servicio" />
+            <img src="activos/service-5.png" alt="service" />
           </div>
           <p>Guardería para Mascotas</p>
         </div>
@@ -211,79 +211,79 @@
     <section class="client">
       <div class="section__container client__container">
         <p class="section__subheader">Testimonios</p>
-        <h2 class="section__header">Lo que dicen de nosotros</h2>
-        <!-- Contenedor principal del slider -->
+        <h2 class="section__header">Lo que dicen sobre nosotros</h2>
+        <!-- Slider main container -->
         <div class="swiper">
-          <!-- Contenedor adicional requerido -->
+          <!-- Additional required wrapper -->
           <div class="swiper-wrapper">
             <!-- Slides -->
             <div class="swiper-slide">
               <div class="client__card">
                 <div class="client__details">
-                  <img src="assets/client-1.jpg" alt="cliente" />
+                  <img src="activos/client-1.jpg" alt="client" />
                   <div>
                     <h4>Sarah Johnson</h4>
                     <h5>Diseñadora Gráfica</h5>
                   </div>
                 </div>
                 <p>
-                  El cuidado que recibió mi perro en Pet Doctor fue excepcional. Los veterinarios fueron atentos y se preocuparon por el bienestar de mi perro.
+                  El cuidado que recibió mi perro en Pet Palace fue excepcional. Los veterinarios fueron atentos y se preocuparon por el bienestar de mi perro.
                 </p>
               </div>
             </div>
             <div class="swiper-slide">
               <div class="client__card">
                 <div class="client__details">
-                  <img src="assets/client-2.jpg" alt="cliente" />
+                  <img src="activos/client-2.jpg" alt="client" />
                   <div>
                     <h4>Michael Adams</h4>
                     <h5>Ingeniero de Software</h5>
                   </div>
                 </div>
                 <p>
-                  ¡Pet Doctor salvó a mi gato durante una emergencia! Su rápida respuesta y experiencia marcaron la diferencia.
+                  ¡Pet Palace salvó a mi gato durante una emergencia! Su rápida respuesta y experiencia marcaron la diferencia.
                 </p>
               </div>
             </div>
             <div class="swiper-slide">
               <div class="client__card">
                 <div class="client__details">
-                  <img src="assets/client-3.jpg" alt="cliente" />
+                  <img src="activos/client-3.jpg" alt="client" />
                   <div>
                     <h4>Emily Martinez</h4>
                     <h5>Maestra</h5>
                   </div>
                 </div>
                 <p>
-                  Confío en Pet Doctor con todas mis mascotas. Su equipo es profesional y siempre van más allá por sus pacientes.
+                  Confío en Pet Palace con todas mis mascotas. Su equipo es profesional y siempre van más allá por sus pacientes.
                 </p>
               </div>
             </div>
             <div class="swiper-slide">
               <div class="client__card">
                 <div class="client__details">
-                  <img src="assets/client-4.jpg" alt="cliente" />
+                  <img src="activos/client-4.jpg" alt="client" />
                   <div>
                     <h4>Jason Lee</h4>
                     <h5>Especialista en Marketing</h5>
                   </div>
                 </div>
                 <p>
-                  ¡Los servicios de aseo en Pet Doctor son fantásticos! Mi perro siempre regresa luciendo fresco y feliz.
+                  ¡Los servicios de aseo en Pet Palace son fantásticos! Mi perro siempre regresa luciendo fresco y feliz.
                 </p>
               </div>
             </div>
             <div class="swiper-slide">
               <div class="client__card">
                 <div class="client__details">
-                  <img src="assets/client-5.jpg" alt="cliente" />
+                  <img src="activos/client-5.jpg" alt="client" />
                   <div>
                     <h4>David Thompson</h4>
                     <h5>Contador</h5>
                   </div>
                 </div>
                 <p>
-                  Nunca había visto un equipo tan dedicado a los animales. Pet Doctor es mi clínica de referencia para todos los problemas de mascotas.
+                  Nunca había visto un equipo tan dedicado a los animales. Pet Palace es mi clínica de referencia para todos los problemas relacionados con mascotas.
                 </p>
               </div>
             </div>
@@ -293,13 +293,13 @@
     </section>
 
     <section class="section__container instagram__container">
-      <p>SIGUENOS</p>
+      <p>SÍGUENOS</p>
       <h2 class="section__header">Instagram</h2>
       <div class="instagram__grid">
-        <img src="assets/instagram-1.jpg" alt="instagram" />
-        <img src="assets/instagram-2.jpg" alt="instagram" />
-        <img src="assets/instagram-3.jpg" alt="instagram" />
-        <img src="assets/instagram-4.jpg" alt="instagram" />
+        <img src="activos/instagram-1.jpg" alt="instagram" />
+        <img src="activos/instagram-2.jpg" alt="instagram" />
+        <img src="activos/instagram-3.jpg" alt="instagram" />
+        <img src="activos/instagram-4.jpg" alt="instagram" />
       </div>
     </section>
 
@@ -307,11 +307,11 @@
       <div class="section__container footer__container">
         <div class="footer__col">
           <div class="footer__logo">
-            <a href="#">Pet Place</a>
+            <a href="#">Pet Palace</a>
           </div>
         </div>
         <div class="footer__col">
-          <h4>Empresa</h4>
+          <h4>Compañía</h4>
           <ul class="footer__links">
             <li><a href="#">Inicio</a></li>
             <li><a href="#">Nosotros</a></li>
@@ -338,9 +338,9 @@
         </div>
         <div class="footer__col">
           <h4>Boletín</h4>
-          <p>Mantente actualizado con nuestras noticias</p>
+          <p>Mantente actualizado con nuestras últimas noticias</p>
           <form action="/">
-            <input type="text" placeholder="Tu correo" />
+            <input type="text" placeholder="Tu correo electrónico" />
             <button class="btn">
               <i class="ri-arrow-right-line"></i>
             </button>
@@ -370,12 +370,12 @@
         </div>
       </div>
       <div class="footer__bar">
-        Copyright © 2024 Con el 💖 de Bebell Digital Solutions. Todos los derechos reservados.
+        Copyright © 2024 Powered with 💖 by Bebell Digital Solutions. Todos los derechos reservados.
       </div>
     </footer>
 
     <script src="https://unpkg.com/scrollreveal"></script>
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
-    <script src="main.js"></script>
+    <script src="script.js"></script>
   </body>
 </html>
